@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788952349017",
+    "project_id": "chat-5e21a",
+    "storage_bucket": "chat-5e21a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788952349017:android:81ab0908a092860ed83448",
+        "android_client_info": {
+          "package_name": "com.nags.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788952349017-mcqmcnjvcdv53qoq2464fl6eos15htj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Kzpzg8_aHX4sTrTQV5RjYq9fA8VRrLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788952349017-mcqmcnjvcdv53qoq2464fl6eos15htj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
